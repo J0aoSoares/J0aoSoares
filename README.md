@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Soares</h1>
 <h3 align="center">A passionate student for FIAP-Paulista</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0aosoares" alt="j0aosoares" /></a> </p>
-
 - Hi, I'm **João Soares**
 
 - 🌱 I’m currently learning **Software Engineering**
