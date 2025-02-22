@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end development**
 
-- 📫 How to reach me **joaorodrigues.009@outlook.com**
-
-- ⚡ Fun fact **I'm still learning**
+- 📫 How to reach me **joaovictor.srodrigues@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
