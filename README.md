@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is João and I'm a Software Engineer Student, from FIAP</h2>
+<br clear="both">
+
+<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -41,8 +43,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/J0aoSoares/J0aoSoares/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0aoSoares/J0aoSoares/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J0aoSoares/J0aoSoares/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/J0aoSoares/J0aoSoares/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
