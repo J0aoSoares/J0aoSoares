@@ -1,11 +1,7 @@
 <h3 align="left">Hi! My name is João and I'm a Student Web Dev from FIAP</h3>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="180" src="https://cdn.picrew.me/shareImg/org/202605/1992485_DGiubKTs.png"  />
-
+<img align="left" height="200" src="https://i.pinimg.com/736x/69/03/da/6903dac0c1d299455d385b37764c594a.jpg"  />
 ###
 
 <div align="left">
